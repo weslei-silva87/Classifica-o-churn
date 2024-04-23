@@ -1,4 +1,4 @@
-# Clasificacão churn (PROJETO EM ANDAMENTO)
+# Classificacão churn (PROJETO EM ANDAMENTO)
 
 Compreender o comportamento do consumidor é fundamental para o sucesso das empresas. A análise de dados se apresenta como uma ferramenta indispensável para alcançar essa compreensão. Por meio da análise detalhada dos dados de clientes, produtos e transações, é possível identificar padrões e tendências que revelam insights valiosos sobre o comportamento de compra.
 
